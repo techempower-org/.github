@@ -1,0 +1,5 @@
+# These are supported funding model platforms
+# This file is at .github/FUNDING.yml in the techempower-org/.github repo
+# so all repos in the org get a Sponsor button pointing at our donate page.
+
+custom: ['https://techempower.org/donate']
