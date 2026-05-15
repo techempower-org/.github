@@ -12,23 +12,35 @@ A 501(c)(3) nonprofit closing the digital divide for low-income individuals and 
 
 ---
 
-## What we build
+## Featured projects
+
+### 🍎 [forageforall](https://github.com/techempower-org/forageforall)
+
+A free, open-source map of fruit trees and edible plants growing on public land. Expo + InstantDB + Google Maps. AGPL-3.0. Food access mapped, owned by the community, free to anyone with a phone.
 
 ### 📚 [storyvox](https://github.com/techempower-org/storyvox) · [storyvox.techempower.org](https://storyvox.techempower.org)
 
-A neural-voice audiobook player for Android. Stream chapters from **seventeen fiction backends** — Royal Road, GitHub, RSS feeds, Outline, Memory Palace, EPUB files, Project Gutenberg, Archive of Our Own, Standard Ebooks, Wikipedia, Wikisource, Radio (30k stations), Notion, Hacker News, arXiv, PLOS, Discord — and read them aloud with three in-process neural TTS voice families (Piper, Kokoro, KittenTTS). Paste any URL → automatic routing to the best backend, with a Readability catch-all so no URL is a dead-end. Free, open-source (GPL-3.0), no tracking, no in-app purchases.
+A neural-voice audiobook player for Android. Streams chapters from **seventeen fiction backends** (Royal Road, GitHub, RSS feeds, Outline, Memory Palace, EPUB files, Project Gutenberg, AO3, Standard Ebooks, Wikipedia, Wikisource, Radio, Notion, Hacker News, arXiv, PLOS, Discord) and reads them aloud with three in-process neural TTS voice families. Paste any URL → smart-route to the best backend. Free, GPL-3.0, no tracking, no in-app purchases.
 
-### 🎙️ [speech-to-cli](https://github.com/techempower-org/speech-to-cli)
+### 🌐 [techempower.org](https://github.com/techempower-org/techempower.org)
 
-MCP voice interface for Claude Code, GitHub Copilot CLI, and Gemini CLI — talk to your terminal AI agent and hear it respond, via Azure Speech Services. Built for accessibility-first workflows.
+The TechEmpower nonprofit's website — Technology for All. Access Made Easy. Free technology resources for individuals with low income. Built on Next.js + Notion CMS.
 
-### ☁️ [cloud-chat-assistant](https://github.com/techempower-org/cloud-chat-assistant)
+### 🧠 [mempalace](https://github.com/techempower-org/mempalace)
 
-Multi-cloud MCP server letting any AI CLI agent reach models on Azure AI Foundry, AWS Bedrock, and Google Vertex AI from one interface.
+Verbatim-first AI memory at scale. ~160K drawers behind `palace-daemon`. ChromaDB-default, pgvector + Apache AGE substrate landing on main. The verbatim-vs-derivative axis is the design test.
 
-### 🖥️ [gnome-speaks](https://github.com/techempower-org/gnome-speaks)
+---
 
-GNOME Shell extension with voice dictation, text-to-speech readback, and LLM conversation — accessibility-forward computing on Linux desktops.
+## Also building
+
+- **[speech-to-cli](https://github.com/techempower-org/speech-to-cli)** — MCP voice interface for Claude Code, Copilot CLI, and Gemini CLI. Talk to your terminal agent and hear it respond.
+- **[cloud-chat-assistant](https://github.com/techempower-org/cloud-chat-assistant)** — Multi-cloud MCP server bridging Azure AI Foundry, AWS Bedrock, and Google Vertex AI from any AI CLI.
+- **[gnome-speaks](https://github.com/techempower-org/gnome-speaks)** — GNOME Shell extension with voice dictation, TTS readback, and LLM conversation modes for accessibility-forward Linux desktops.
+- **[VoxSherpa-TTS](https://github.com/techempower-org/VoxSherpa-TTS)** — Offline neural text-to-speech engine for Android. Sherpa-ONNX powered, fully offline, no cloud.
+- **[palace-daemon](https://github.com/techempower-org/palace-daemon)** — HTTP/MCP gateway serializing ChromaDB access across multiple clients of `mempalace`.
+- **[familiar.realm.watch](https://github.com/techempower-org/familiar.realm.watch)** — Local-first AI companion that reads `mempalace` before speaking, writes to it after.
+- **[multipass-structural-memory-eval](https://github.com/techempower-org/multipass-structural-memory-eval)** — Diagnostic framework for memory systems — RAG, knowledge graphs, personal knowledge bases, conversational memory.
 
 ---
 
@@ -36,9 +48,11 @@ GNOME Shell extension with voice dictation, text-to-speech readback, and LLM con
 
 Technology shouldn't be a luxury. We build software for people that mainstream tools price out, ignore, or fail to serve well:
 
-- **Audiobook tooling** for blind, low-vision, and dyslexic readers who can't access traditional reading.
-- **Voice-first computing** for users with motor or cognitive accessibility needs.
-- **Accessible developer tools** so the people building tomorrow's tech reflect everyone, not just the wealthy.
+- 🍎 **Local food access** mapped openly so anyone with a phone can find fruit trees and edible plants growing on public land.
+- 📖 **Audiobook tooling** for blind, low-vision, and dyslexic readers who can't access traditional reading.
+- 🎙️ **Voice-first computing** for users with motor or cognitive accessibility needs.
+- 🧠 **Memory systems** that respect verbatim source material instead of collapsing it into lossy summaries.
+- 🛠️ **Accessible developer tools** so the people building tomorrow's tech reflect everyone, not just the wealthy.
 
 Every project we ship is free, open-source, and built to outlast us.
 
