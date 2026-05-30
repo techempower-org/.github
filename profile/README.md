@@ -68,5 +68,5 @@ Every project we ship is free, open-source, and built to outlast us.
 ---
 
 <div align="center">
-  <sub>© TechEmpower · Grass Valley, California · Software for the rest of us.</sub>
+  <sub>© Techempower.org · Grass Valley, California · Software for the rest of us.</sub>
 </div>
