@@ -1,6 +1,6 @@
 <div align="center">
 
-# TechEmpower
+# TechEMPOWER
 
 **Technology for All. Access Made Easy.**
 
