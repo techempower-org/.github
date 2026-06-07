@@ -18,9 +18,9 @@ A 501(c)(3) nonprofit closing the digital divide for low-income individuals and 
 
 A free, open-source map of fruit trees and edible plants growing on public land. Expo + InstantDB + Google Maps. AGPL-3.0. Food access mapped, owned by the community, free to anyone with a phone.
 
-### 📚 [storyvox](https://github.com/techempower-org/storyvox) · [storyvox.techempower.org](https://storyvox.techempower.org)
+### 📚 [Candela](https://github.com/techempower-org/candela) · [candela.techempower.org](https://candela.techempower.org)
 
-A neural-voice audiobook player for Android. Streams chapters from **seventeen fiction backends** (Royal Road, GitHub, RSS feeds, Outline, Memory Palace, EPUB files, Project Gutenberg, AO3, Standard Ebooks, Wikipedia, Wikisource, Radio, Notion, Hacker News, arXiv, PLOS, Discord) and reads them aloud with three in-process neural TTS voice families. Paste any URL → smart-route to the best backend. Free, GPL-3.0, no tracking, no in-app purchases.
+A neural-voice audiobook player for Android. Streams chapters from **twenty-five fiction backends** (Royal Road, GitHub, RSS / Atom feeds, Outline, Memory Palace, local EPUB & PDF files, scanned text via OCR, Project Gutenberg, LibriVox, AO3, Standard Ebooks, Wikipedia, Wikisource, Radio, Notion, Hacker News, arXiv, PLOS, Discord, Telegram, Slack, Matrix, the Palace Project, and any article via Readability) and reads them aloud with three in-process neural TTS voice families plus optional Azure HD cloud voices. A hybrid reader/audiobook view highlights the spoken sentence in brass as you listen. Paste any URL → smart-route to the best backend. Free, GPL-3.0, no tracking, no in-app purchases.
 
 ### 🌐 [techempower.org](https://github.com/techempower-org/techempower.org)
 
